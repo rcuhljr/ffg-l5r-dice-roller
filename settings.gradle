@@ -1,0 +1,2 @@
+rootProject.name='FFGL5RDiceRoller'
+include ':app'
